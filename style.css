@@ -1,0 +1,15 @@
+table{
+    background-color:rgba(120,190,197,255);
+    height: 300px;
+    width: 300px;
+    border: 3px;
+    border-color:white ;
+    color: black;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+td{
+    padding: 40px;
+    text-align: center;
+    border-radius: 20px;
+}
